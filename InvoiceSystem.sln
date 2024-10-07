@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceSystem", "InvoiceSystem\InvoiceSystem.csproj", "{9EEEFB44-CA5D-4F59-8A77-D35E1C1A4362}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DSSoltution", "DSSoltution\DSSoltution.vdproj", "{3E9687DB-56EF-4F54-B25D-42FCE5B4D289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EEEFB44-CA5D-4F59-8A77-D35E1C1A4362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEEFB44-CA5D-4F59-8A77-D35E1C1A4362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEEFB44-CA5D-4F59-8A77-D35E1C1A4362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEEFB44-CA5D-4F59-8A77-D35E1C1A4362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E9687DB-56EF-4F54-B25D-42FCE5B4D289}.Debug|Any CPU.ActiveCfg = Debug
+		{3E9687DB-56EF-4F54-B25D-42FCE5B4D289}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2070A7D8-3926-4AAF-A092-9E623B2CCB4C}
+	EndGlobalSection
+EndGlobal
